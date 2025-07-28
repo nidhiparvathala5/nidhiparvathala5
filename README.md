@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi I'm Nidhi 👋
+Junior at The University of Texas at Dallas 
+Aspiring software engineer
+Tech stack:
+Languages: Java, Python, C++, C, HTML, CSS, JavaScript
+Data Science: NumPy, Pandas, Seaborn, TensorFlow
+Web Dev: HTML, CSS, JavaScript
+
+
+
+How to Reach Me:
+Email: nidhiparvath5@gmail.com
+Linkedin: www.linkedin.com/in/nidhiparvathala
+
 
 <!--
 **nidhiparvathala5/nidhiparvathala5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
