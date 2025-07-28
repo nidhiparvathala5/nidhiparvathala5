@@ -1,6 +1,7 @@
 ## Hi I'm Nidhi 👋
 Junior at The University of Texas at Dallas 
 Aspiring software engineer
+
 Tech stack:
 Languages: Java, Python, C++, C, HTML, CSS, JavaScript
 Data Science: NumPy, Pandas, Seaborn, TensorFlow
