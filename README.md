@@ -7,8 +7,6 @@ Languages: Java, Python, C++, C, HTML, CSS, JavaScript
 Data Science: NumPy, Pandas, Seaborn, TensorFlow
 Web Dev: HTML, CSS, JavaScript
 
-
-
 How to Reach Me:
 Email: nidhiparvath5@gmail.com
 Linkedin: www.linkedin.com/in/nidhiparvathala
