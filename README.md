@@ -1,13 +1,17 @@
 ## Hi I'm Nidhi 👋
+I'm an aspiring software engineer!
 Junior at The University of Texas at Dallas 
-Aspiring software engineer
+💻 Interests: Fullstack development, data science, machine learning
+📫 Reach me: nidhiparvath5@gmail.com
 
-Tech stack:
+👩‍💻 Technical Skills:
 Languages: Java, Python, C++, C, HTML, CSS, JavaScript
 Data Science: NumPy, Pandas, Seaborn, TensorFlow
+Frameworks: React, Flask
 Web Dev: HTML, CSS, JavaScript
 
-How to Reach Me:
+
+📫 How to Reach Me:
 Email: nidhiparvath5@gmail.com
 Linkedin: www.linkedin.com/in/nidhiparvathala
 
