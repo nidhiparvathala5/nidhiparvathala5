@@ -1,6 +1,6 @@
 ## Hi I'm Nidhi 👋
 I'm an aspiring software engineer!
-Junior at The University of Texas at Dallas 
+Junior at The University of Texas at Dallas majoring in Computer Science
 💻 Interests: Fullstack development, data science, machine learning
 📫 Reach me: nidhiparvath5@gmail.com
 
