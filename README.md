@@ -10,11 +10,13 @@ Data Science: NumPy, Pandas, Seaborn, TensorFlow
 Frameworks: React, Flask
 Web Dev: HTML, CSS, JavaScript
 
+📁 Projects: 
+Loan Recovery Machine Learning project:
+Segmented borrowers into risk-based groups by applying KMeans clustering based financial and behavioral features to uncover patterns and identify profiles. Predicted high-risk borrowers by labeling segments with default risk and training a Random Forest classifier on features, enabling risk detection with 98% accuracy.
 
 📫 How to Reach Me:
 Email: nidhiparvath5@gmail.com
 Linkedin: www.linkedin.com/in/nidhiparvathala
-
 
 <!--
 **nidhiparvathala5/nidhiparvathala5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
